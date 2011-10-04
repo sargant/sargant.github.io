@@ -1,0 +1,13 @@
+body {
+    padding-top: 60px;
+}
+.container {
+    width: 840px;
+}
+
+/** Fancy links ***************************************************************/
+
+a.mailto {
+    padding-left: 20px;
+    background: transparent url(../icons/fugue/mail.png) center left no-repeat;
+}
