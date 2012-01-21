@@ -4,6 +4,7 @@ body {
 }
 .container {
     width: 700px;
+    background-color: #FFFFFF;
 }
 
 /** Fancy links ***************************************************************/
