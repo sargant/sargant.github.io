@@ -1,0 +1,18 @@
+html {
+    background: #C43924;
+}
+
+.hero-unit {
+    background-color: #8DB4A1;
+    background-image: url('../images/header.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.hero-unit, .hero-unit h1 {
+    color: white;
+}
+
+.hero-unit h1 { 
+    font-size: 4em;
+}
