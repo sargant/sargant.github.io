@@ -1,12 +1,23 @@
+/***
+ * Ocean Five palette
+ * http://www.colourlovers.com/palette/1473/Ocean_Five
+ *
+ * Blue:    #00A0B0 (  0, 160, 176)
+ * Brown:   #6A4A3C (106,  74,  60)
+ * Red:     #CC333F (204,  51,  63)
+ * Orange:  #EB6841 (235, 104,  65)
+ * Yellow:  #EDC951 (237, 201,  81)
+ */
+
 html, body { height: 100%; }
 
 html {
-    background: #8DB4A1;
+    background: #00A0B0;
 }
 
 body {
     padding-top: 60px;
-    width: 840px;
+    width: 900px;
     margin: auto;
     height: 100%;
 }
@@ -18,11 +29,11 @@ body {
 /** Default page styles********************************************************/
 
 h1, h2, h3, h4, h5, h6 {
-    color: #3C2923;
+    color: #CC333F;
 }
 
 a, a:hover {
-    color: #C43924
+    color: #EB6841;
 }
 
 /** Fancy links ***************************************************************/
