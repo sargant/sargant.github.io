@@ -16,14 +16,18 @@ html {
 }
 
 body {
+    background: white;
     padding-top: 60px;
     width: 900px;
     margin: auto;
-    height: 100%;
 }
 
 .container {
     width: 700px;
+}
+
+body, footer {
+    background-color: white;
 }
 
 /** Default page styles********************************************************/
@@ -41,4 +45,9 @@ a, a:hover {
 a.mailto {
     padding-left: 20px;
     background: transparent url(../images/icons/mail.png) center left no-repeat;
+}
+
+a.twitter {
+    padding-left: 20px;
+    background: transparent url(../images/icons/twitter.png) center left no-repeat;
 }
