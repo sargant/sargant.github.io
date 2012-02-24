@@ -9,13 +9,13 @@
  * Yellow:  #EDC951 (237, 201,  81)
  */
 
-html, body { height: 100%; }
-
 html {
     background: #00A0B0;
+    height: 100%;
 }
 
 body {
+    min-height: 100%;
     background: white;
     padding-top: 60px;
     width: 900px;
